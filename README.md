@@ -68,9 +68,9 @@ TOPIC_AUDIO_MAPPING = {
 
 In this example, three MQTT topics are defined, and the associated audio files are specified.
 
-## License
+## Linux Service
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+To learn how to set this up to run as a service on Linux - see the [SERVICE](SERVICE.md) file for details.
 
 ## Acknowledgments
 
